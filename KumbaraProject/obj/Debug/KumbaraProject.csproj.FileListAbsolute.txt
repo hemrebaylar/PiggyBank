@@ -1,0 +1,9 @@
+C:\Users\hebaylar\source\repos\KumbaraProject\KumbaraProject\bin\Debug\KumbaraProject.exe.config
+C:\Users\hebaylar\source\repos\KumbaraProject\KumbaraProject\bin\Debug\KumbaraProject.exe
+C:\Users\hebaylar\source\repos\KumbaraProject\KumbaraProject\bin\Debug\KumbaraProject.pdb
+C:\Users\hebaylar\source\repos\KumbaraProject\KumbaraProject\obj\Debug\KumbaraProject.csprojAssemblyReference.cache
+C:\Users\hebaylar\source\repos\KumbaraProject\KumbaraProject\obj\Debug\KumbaraProject.Form1.resources
+C:\Users\hebaylar\source\repos\KumbaraProject\KumbaraProject\obj\Debug\KumbaraProject.Properties.Resources.resources
+C:\Users\hebaylar\source\repos\KumbaraProject\KumbaraProject\obj\Debug\KumbaraProject.csproj.GenerateResource.cache
+C:\Users\hebaylar\source\repos\KumbaraProject\KumbaraProject\obj\Debug\KumbaraProject.exe
+C:\Users\hebaylar\source\repos\KumbaraProject\KumbaraProject\obj\Debug\KumbaraProject.pdb
